@@ -111,7 +111,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 2
+    androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
@@ -60241,8 +60241,8 @@ TextureImporter:
       2_City_Terrains_16x16_771: 1528344225
       2_City_Terrains_16x16_2803: 1537757470
       2_City_Terrains_16x16_630: 559041773
-      2_City_Terrains_16x16_585: -69174848
       2_City_Terrains_16x16_1204: 918242584
+      2_City_Terrains_16x16_585: -69174848
       2_City_Terrains_16x16_1670: 1541022648
       2_City_Terrains_16x16_1460: 1151263257
       2_City_Terrains_16x16_1202: 1945889735
@@ -60284,8 +60284,8 @@ TextureImporter:
       2_City_Terrains_16x16_2617: 798750813
       2_City_Terrains_16x16_1780: -1148520443
       2_City_Terrains_16x16_518: 1849970303
-      2_City_Terrains_16x16_1063: -327395498
       2_City_Terrains_16x16_2737: -817718411
+      2_City_Terrains_16x16_1063: -327395498
       2_City_Terrains_16x16_870: -1219481697
       2_City_Terrains_16x16_1145: -1667541608
       2_City_Terrains_16x16_1625: -1750487707
@@ -60350,8 +60350,8 @@ TextureImporter:
       2_City_Terrains_16x16_52: 1560814176
       2_City_Terrains_16x16_1666: -780877426
       2_City_Terrains_16x16_89: -1876891468
-      2_City_Terrains_16x16_327: -1988346579
       2_City_Terrains_16x16_1308: -85135046
+      2_City_Terrains_16x16_327: -1988346579
       2_City_Terrains_16x16_205: 1275743040
       2_City_Terrains_16x16_594: 2024418932
       2_City_Terrains_16x16_1667: 4819576
@@ -60528,8 +60528,8 @@ TextureImporter:
       2_City_Terrains_16x16_319: 1906587444
       2_City_Terrains_16x16_2607: 1221650215
       2_City_Terrains_16x16_1161: 1016654558
-      2_City_Terrains_16x16_1617: -1429373161
       2_City_Terrains_16x16_2735: 973613579
+      2_City_Terrains_16x16_1617: -1429373161
       2_City_Terrains_16x16_2435: -1365554142
       2_City_Terrains_16x16_1971: 134150612
       2_City_Terrains_16x16_668: -259215305
@@ -60562,9 +60562,9 @@ TextureImporter:
       2_City_Terrains_16x16_2760: 1903149055
       2_City_Terrains_16x16_1333: -1033151304
       2_City_Terrains_16x16_691: 1246867136
-      2_City_Terrains_16x16_1185: -324732896
-      2_City_Terrains_16x16_2372: -1954770801
       2_City_Terrains_16x16_2160: -1895675222
+      2_City_Terrains_16x16_2372: -1954770801
+      2_City_Terrains_16x16_1185: -324732896
       2_City_Terrains_16x16_500: -739184194
       2_City_Terrains_16x16_2510: -1286081213
       2_City_Terrains_16x16_1635: -716432034
@@ -60617,11 +60617,11 @@ TextureImporter:
       2_City_Terrains_16x16_1422: -669736870
       2_City_Terrains_16x16_40: 498500579
       2_City_Terrains_16x16_2081: -134209971
-      2_City_Terrains_16x16_804: 65758723
       2_City_Terrains_16x16_2191: 79849795
+      2_City_Terrains_16x16_804: 65758723
+      2_City_Terrains_16x16_2530: -1200057877
       2_City_Terrains_16x16_548: -364253334
       2_City_Terrains_16x16_494: 1060272222
-      2_City_Terrains_16x16_2530: -1200057877
       2_City_Terrains_16x16_2451: 694922838
       2_City_Terrains_16x16_2039: -1202180678
       2_City_Terrains_16x16_1038: 529376253
@@ -60660,8 +60660,8 @@ TextureImporter:
       2_City_Terrains_16x16_1110: -1013958977
       2_City_Terrains_16x16_2478: 565841562
       2_City_Terrains_16x16_1322: -750914787
-      2_City_Terrains_16x16_1501: 1565367173
       2_City_Terrains_16x16_1164: -2044044457
+      2_City_Terrains_16x16_1501: 1565367173
       2_City_Terrains_16x16_1874: 2147326894
       2_City_Terrains_16x16_1267: 650085610
       2_City_Terrains_16x16_1653: 1891368116
@@ -60778,8 +60778,8 @@ TextureImporter:
       2_City_Terrains_16x16_339: -68736687
       2_City_Terrains_16x16_1748: -2082824744
       2_City_Terrains_16x16_1629: -1273560113
-      2_City_Terrains_16x16_1966: -733717123
       2_City_Terrains_16x16_2008: 2041535814
+      2_City_Terrains_16x16_1966: -733717123
       2_City_Terrains_16x16_198: 1958482473
       2_City_Terrains_16x16_867: 1012033111
       2_City_Terrains_16x16_259: -111708610
@@ -60797,8 +60797,8 @@ TextureImporter:
       2_City_Terrains_16x16_1985: 1744380675
       2_City_Terrains_16x16_2655: -1371617323
       2_City_Terrains_16x16_1811: 403463516
-      2_City_Terrains_16x16_1036: -2002570966
       2_City_Terrains_16x16_2433: -1967857357
+      2_City_Terrains_16x16_1036: -2002570966
       2_City_Terrains_16x16_2113: -231183977
       2_City_Terrains_16x16_132: -299353975
       2_City_Terrains_16x16_1368: 1872827213
@@ -60813,9 +60813,9 @@ TextureImporter:
       2_City_Terrains_16x16_1829: 580717511
       2_City_Terrains_16x16_1141: 773099110
       2_City_Terrains_16x16_37: -1840451272
+      2_City_Terrains_16x16_173: -349979943
       2_City_Terrains_16x16_115: 190177555
       2_City_Terrains_16x16_1764: -1626698416
-      2_City_Terrains_16x16_173: -349979943
       2_City_Terrains_16x16_1282: 1288581314
       2_City_Terrains_16x16_1442: 197426947
       2_City_Terrains_16x16_2441: -1028301250
@@ -60917,8 +60917,8 @@ TextureImporter:
       2_City_Terrains_16x16_1805: 313072749
       2_City_Terrains_16x16_1251: 1405178978
       2_City_Terrains_16x16_163: -1839498691
-      2_City_Terrains_16x16_2321: -2059910513
       2_City_Terrains_16x16_445: -1197533686
+      2_City_Terrains_16x16_2321: -2059910513
       2_City_Terrains_16x16_2525: 1408392185
       2_City_Terrains_16x16_772: 1807825371
       2_City_Terrains_16x16_991: 597383821
@@ -61106,11 +61106,11 @@ TextureImporter:
       2_City_Terrains_16x16_1523: -1479170882
       2_City_Terrains_16x16_1393: -188941764
       2_City_Terrains_16x16_1230: -2000650243
-      2_City_Terrains_16x16_1725: -1191901974
       2_City_Terrains_16x16_1775: -1755408475
-      2_City_Terrains_16x16_2233: -280372833
+      2_City_Terrains_16x16_1725: -1191901974
       2_City_Terrains_16x16_2066: -2079679681
       2_City_Terrains_16x16_2420: -1536609404
+      2_City_Terrains_16x16_2233: -280372833
       2_City_Terrains_16x16_1280: 438627941
       2_City_Terrains_16x16_1453: 975371560
       2_City_Terrains_16x16_1296: 699935549
@@ -61147,13 +61147,13 @@ TextureImporter:
       2_City_Terrains_16x16_1406: 2097530671
       2_City_Terrains_16x16_1122: -675220601
       2_City_Terrains_16x16_1752: 172582823
+      2_City_Terrains_16x16_2812: -797967599
       2_City_Terrains_16x16_1490: -1470214752
       2_City_Terrains_16x16_2552: 1236002525
-      2_City_Terrains_16x16_2812: -797967599
-      2_City_Terrains_16x16_1905: 1118634887
-      2_City_Terrains_16x16_1658: -1621595226
-      2_City_Terrains_16x16_2274: -871761064
       2_City_Terrains_16x16_2490: 504706581
+      2_City_Terrains_16x16_1658: -1621595226
+      2_City_Terrains_16x16_1905: 1118634887
+      2_City_Terrains_16x16_2274: -871761064
       2_City_Terrains_16x16_1478: 850045560
       2_City_Terrains_16x16_1961: -1734201793
       2_City_Terrains_16x16_2353: -1127283963
@@ -61180,12 +61180,12 @@ TextureImporter:
       2_City_Terrains_16x16_2226: -1805320337
       2_City_Terrains_16x16_643: 297127368
       2_City_Terrains_16x16_4: 810403280
-      2_City_Terrains_16x16_1489: 1376019682
-      2_City_Terrains_16x16_963: 2077013802
       2_City_Terrains_16x16_2293: 477140171
+      2_City_Terrains_16x16_963: 2077013802
       2_City_Terrains_16x16_1429: 400590819
       2_City_Terrains_16x16_2213: -1707808279
       2_City_Terrains_16x16_2188: 1844057552
+      2_City_Terrains_16x16_1489: 1376019682
       2_City_Terrains_16x16_2609: 1905790078
       2_City_Terrains_16x16_61: -2101080109
       2_City_Terrains_16x16_464: 1867713281
@@ -61218,9 +61218,9 @@ TextureImporter:
       2_City_Terrains_16x16_225: -1446901456
       2_City_Terrains_16x16_1636: 837745147
       2_City_Terrains_16x16_1087: -1236342695
+      2_City_Terrains_16x16_1904: 1309589594
       2_City_Terrains_16x16_479: 74745925
       2_City_Terrains_16x16_694: -1714339422
-      2_City_Terrains_16x16_1904: 1309589594
       2_City_Terrains_16x16_331: 1235973976
       2_City_Terrains_16x16_780: 836634603
       2_City_Terrains_16x16_2474: 769048487
@@ -61244,12 +61244,12 @@ TextureImporter:
       2_City_Terrains_16x16_2758: -1813442955
       2_City_Terrains_16x16_2223: 934672831
       2_City_Terrains_16x16_1592: -1674132126
-      2_City_Terrains_16x16_15: 1825593104
       2_City_Terrains_16x16_1825: 732078116
+      2_City_Terrains_16x16_15: 1825593104
+      2_City_Terrains_16x16_2493: -1549687507
       2_City_Terrains_16x16_212: 176067768
       2_City_Terrains_16x16_2533: -792395489
       2_City_Terrains_16x16_2848: -1607407842
-      2_City_Terrains_16x16_2493: -1549687507
       2_City_Terrains_16x16_939: -7226127
       2_City_Terrains_16x16_2350: 1466228721
       2_City_Terrains_16x16_558: -874281017
@@ -61351,14 +61351,14 @@ TextureImporter:
       2_City_Terrains_16x16_275: 1000492948
       2_City_Terrains_16x16_665: 1996956832
       2_City_Terrains_16x16_53: 1410427188
-      2_City_Terrains_16x16_646: -985093488
-      2_City_Terrains_16x16_58: 1452533447
       2_City_Terrains_16x16_2595: -712379862
+      2_City_Terrains_16x16_58: 1452533447
+      2_City_Terrains_16x16_646: -985093488
       2_City_Terrains_16x16_2436: -1752307486
       2_City_Terrains_16x16_257: 640742170
       2_City_Terrains_16x16_1310: 2089941907
-      2_City_Terrains_16x16_2245: 2036005780
       2_City_Terrains_16x16_2677: -603730818
+      2_City_Terrains_16x16_2245: 2036005780
       2_City_Terrains_16x16_764: -412256768
       2_City_Terrains_16x16_2279: -179072148
       2_City_Terrains_16x16_1548: 1906913726
@@ -61746,9 +61746,9 @@ TextureImporter:
       2_City_Terrains_16x16_2264: -188238242
       2_City_Terrains_16x16_1266: 184206877
       2_City_Terrains_16x16_975: -833131624
-      2_City_Terrains_16x16_1099: -1100706551
       2_City_Terrains_16x16_1521: -1378026267
       2_City_Terrains_16x16_784: 364460062
+      2_City_Terrains_16x16_1099: -1100706551
       2_City_Terrains_16x16_1564: 1798473356
       2_City_Terrains_16x16_601: -1928183132
       2_City_Terrains_16x16_1301: -1283768700
@@ -61771,11 +61771,11 @@ TextureImporter:
       2_City_Terrains_16x16_742: -1312092347
       2_City_Terrains_16x16_365: -1788076976
       2_City_Terrains_16x16_709: -2100518772
+      2_City_Terrains_16x16_2280: -1639612289
       2_City_Terrains_16x16_65: 581309840
-      2_City_Terrains_16x16_2295: -1353316073
       2_City_Terrains_16x16_2180: 758231294
       2_City_Terrains_16x16_2518: -1539825629
-      2_City_Terrains_16x16_2280: -1639612289
+      2_City_Terrains_16x16_2295: -1353316073
       2_City_Terrains_16x16_918: 485016857
       2_City_Terrains_16x16_1663: -1922200776
       2_City_Terrains_16x16_361: -307647694
@@ -61784,8 +61784,8 @@ TextureImporter:
       2_City_Terrains_16x16_2497: 292526172
       2_City_Terrains_16x16_2051: -2077527520
       2_City_Terrains_16x16_68: -328354312
-      2_City_Terrains_16x16_160: 1394434970
       2_City_Terrains_16x16_1361: 2003436126
+      2_City_Terrains_16x16_160: 1394434970
       2_City_Terrains_16x16_1156: -1309477282
       2_City_Terrains_16x16_2629: 1849536436
       2_City_Terrains_16x16_94: -1590588475
@@ -61856,13 +61856,13 @@ TextureImporter:
       2_City_Terrains_16x16_792: -993234773
       2_City_Terrains_16x16_1033: -2313656
       2_City_Terrains_16x16_871: 1478545897
-      2_City_Terrains_16x16_626: 1701188187
       2_City_Terrains_16x16_1144: 1126567105
+      2_City_Terrains_16x16_626: 1701188187
+      2_City_Terrains_16x16_1628: -1479018544
       2_City_Terrains_16x16_1936: -283411463
       2_City_Terrains_16x16_1128: -1397536594
-      2_City_Terrains_16x16_1628: -1479018544
-      2_City_Terrains_16x16_227: -1335601775
       2_City_Terrains_16x16_2830: 1568648701
+      2_City_Terrains_16x16_227: -1335601775
       2_City_Terrains_16x16_2291: 1863458139
       2_City_Terrains_16x16_476: 951662861
       2_City_Terrains_16x16_1434: 1085287568
@@ -61911,8 +61911,8 @@ TextureImporter:
       2_City_Terrains_16x16_352: 999195235
       2_City_Terrains_16x16_1201: -1898427760
       2_City_Terrains_16x16_815: -12839534
-      2_City_Terrains_16x16_441: 302789258
       2_City_Terrains_16x16_1705: 2071700841
+      2_City_Terrains_16x16_441: 302789258
       2_City_Terrains_16x16_2218: -806216646
       2_City_Terrains_16x16_2109: 1459884593
       2_City_Terrains_16x16_1390: -573406905
@@ -61949,8 +61949,8 @@ TextureImporter:
       2_City_Terrains_16x16_809: 350402576
       2_City_Terrains_16x16_700: -428813007
       2_City_Terrains_16x16_1261: -110414596
-      2_City_Terrains_16x16_1149: -255013351
       2_City_Terrains_16x16_1980: 1480841660
+      2_City_Terrains_16x16_1149: -255013351
       2_City_Terrains_16x16_1337: 1094616098
       2_City_Terrains_16x16_1741: 267553453
       2_City_Terrains_16x16_912: -2098594452
@@ -61978,9 +61978,9 @@ TextureImporter:
       2_City_Terrains_16x16_2041: -380729122
       2_City_Terrains_16x16_2059: -109533355
       2_City_Terrains_16x16_2591: -1796986840
+      2_City_Terrains_16x16_2785: -525396972
       2_City_Terrains_16x16_27: 562177125
       2_City_Terrains_16x16_321: 406455905
-      2_City_Terrains_16x16_2785: -525396972
       2_City_Terrains_16x16_2057: -998063607
       2_City_Terrains_16x16_2276: 55964171
       2_City_Terrains_16x16_979: -558683905
@@ -62146,8 +62146,8 @@ TextureImporter:
       2_City_Terrains_16x16_1916: -1417295590
       2_City_Terrains_16x16_1634: 210652265
       2_City_Terrains_16x16_1388: 540242305
-      2_City_Terrains_16x16_447: 1716779331
       2_City_Terrains_16x16_1842: -1598401132
+      2_City_Terrains_16x16_447: 1716779331
       2_City_Terrains_16x16_1823: 1119539732
       2_City_Terrains_16x16_2586: 1319751958
       2_City_Terrains_16x16_1850: -504328685
@@ -62206,11 +62206,11 @@ TextureImporter:
       2_City_Terrains_16x16_1075: 104866039
       2_City_Terrains_16x16_2732: -2111551327
       2_City_Terrains_16x16_2457: -1184980722
-      2_City_Terrains_16x16_1535: 968239537
       2_City_Terrains_16x16_2009: -572512980
       2_City_Terrains_16x16_62: 378179567
       2_City_Terrains_16x16_1688: 858949646
       2_City_Terrains_16x16_816: -79861650
+      2_City_Terrains_16x16_1535: 968239537
       2_City_Terrains_16x16_13: -1004136782
       2_City_Terrains_16x16_917: -1825663371
       2_City_Terrains_16x16_73: 277212298
@@ -62258,15 +62258,15 @@ TextureImporter:
       2_City_Terrains_16x16_803: 263356467
       2_City_Terrains_16x16_1911: -1616342051
       2_City_Terrains_16x16_179: -222915501
-      2_City_Terrains_16x16_2395: -944638791
-      2_City_Terrains_16x16_1627: 538470866
-      2_City_Terrains_16x16_1760: -1234027531
       2_City_Terrains_16x16_2366: -908850517
+      2_City_Terrains_16x16_1627: 538470866
+      2_City_Terrains_16x16_2395: -944638791
       2_City_Terrains_16x16_308: -42128218
       2_City_Terrains_16x16_1744: -377112397
       2_City_Terrains_16x16_254: 179851348
       2_City_Terrains_16x16_955: -247794749
       2_City_Terrains_16x16_874: 1899187344
+      2_City_Terrains_16x16_1760: -1234027531
       2_City_Terrains_16x16_1798: -1063179645
       2_City_Terrains_16x16_1606: -22582276
       2_City_Terrains_16x16_2058: -1510855686
@@ -62300,11 +62300,11 @@ TextureImporter:
       2_City_Terrains_16x16_1027: -1898083302
       2_City_Terrains_16x16_110: -60515684
       2_City_Terrains_16x16_817: 639008195
-      2_City_Terrains_16x16_699: -1967464994
+      2_City_Terrains_16x16_2151: 508471090
       2_City_Terrains_16x16_1633: -173558911
       2_City_Terrains_16x16_434: -1846711236
+      2_City_Terrains_16x16_699: -1967464994
       2_City_Terrains_16x16_1976: -20298065
-      2_City_Terrains_16x16_2151: 508471090
       2_City_Terrains_16x16_2537: -96864410
       2_City_Terrains_16x16_216: -1682015756
       2_City_Terrains_16x16_669: 776826510
@@ -62332,8 +62332,8 @@ TextureImporter:
       2_City_Terrains_16x16_611: 430773972
       2_City_Terrains_16x16_1058: 420797627
       2_City_Terrains_16x16_1560: 1146794109
-      2_City_Terrains_16x16_2374: -1703770672
       2_City_Terrains_16x16_2170: -195579660
+      2_City_Terrains_16x16_2374: -1703770672
       2_City_Terrains_16x16_738: -953876178
       2_City_Terrains_16x16_2719: -1633896333
       2_City_Terrains_16x16_2645: -450105893
@@ -62476,8 +62476,8 @@ TextureImporter:
       2_City_Terrains_16x16_200: -1471812390
       2_City_Terrains_16x16_512: -365705141
       2_City_Terrains_16x16_82: -1667490573
-      2_City_Terrains_16x16_411: -1763185564
       2_City_Terrains_16x16_2075: 2133631951
+      2_City_Terrains_16x16_411: -1763185564
       2_City_Terrains_16x16_1115: 1308614836
       2_City_Terrains_16x16_921: 1131854261
       2_City_Terrains_16x16_2780: -1112960044
@@ -62578,8 +62578,8 @@ TextureImporter:
       2_City_Terrains_16x16_149: 1849411008
       2_City_Terrains_16x16_781: 1646871296
       2_City_Terrains_16x16_1320: -1597721008
-      2_City_Terrains_16x16_1854: -1562904860
       2_City_Terrains_16x16_2410: -862025204
+      2_City_Terrains_16x16_1854: -1562904860
       2_City_Terrains_16x16_2631: -1540453255
       2_City_Terrains_16x16_1834: 390216273
       2_City_Terrains_16x16_2835: -1284919933
@@ -62638,8 +62638,8 @@ TextureImporter:
       2_City_Terrains_16x16_631: 881847398
       2_City_Terrains_16x16_2412: 2042050991
       2_City_Terrains_16x16_1895: 265499916
-      2_City_Terrains_16x16_2477: -412529259
       2_City_Terrains_16x16_2739: 26393180
+      2_City_Terrains_16x16_2477: -412529259
       2_City_Terrains_16x16_909: -1319772722
       2_City_Terrains_16x16_1868: -1997701109
       2_City_Terrains_16x16_1492: 927316356
@@ -62817,12 +62817,12 @@ TextureImporter:
       2_City_Terrains_16x16_2229: -1828358031
       2_City_Terrains_16x16_1079: 1630815436
       2_City_Terrains_16x16_1324: -1301998622
-      2_City_Terrains_16x16_2033: 181846694
       2_City_Terrains_16x16_2488: -1457889922
       2_City_Terrains_16x16_1902: -1649122483
+      2_City_Terrains_16x16_2033: 181846694
       2_City_Terrains_16x16_789: 260228860
-      2_City_Terrains_16x16_1152: 1570304606
       2_City_Terrains_16x16_2029: -1469856377
+      2_City_Terrains_16x16_1152: 1570304606
       2_City_Terrains_16x16_1345: -14516282
       2_City_Terrains_16x16_1: 17752878
       2_City_Terrains_16x16_1438: 390858933

@@ -111,7 +111,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 2
+    androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
@@ -25995,14 +25995,14 @@ TextureImporter:
       12_Hotel_and_Hospital_16x16_982: -1747149126
       12_Hotel_and_Hospital_16x16_920: 829259012
       12_Hotel_and_Hospital_16x16_256: 1589020927
-      12_Hotel_and_Hospital_16x16_554: -566891721
       12_Hotel_and_Hospital_16x16_850: -2076212528
+      12_Hotel_and_Hospital_16x16_1013: -498514653
       12_Hotel_and_Hospital_16x16_248: 130096745
       12_Hotel_and_Hospital_16x16_439: 745678760
       12_Hotel_and_Hospital_16x16_434: 2141751475
-      12_Hotel_and_Hospital_16x16_1122: -755060345
+      12_Hotel_and_Hospital_16x16_554: -566891721
       12_Hotel_and_Hospital_16x16_442: -1126869302
-      12_Hotel_and_Hospital_16x16_1013: -498514653
+      12_Hotel_and_Hospital_16x16_1122: -755060345
       12_Hotel_and_Hospital_16x16_890: -746206758
       12_Hotel_and_Hospital_16x16_1078: -1691149372
       12_Hotel_and_Hospital_16x16_1150: -1191591848
@@ -26113,24 +26113,24 @@ TextureImporter:
       12_Hotel_and_Hospital_16x16_547: -451550399
       12_Hotel_and_Hospital_16x16_278: 1171000750
       12_Hotel_and_Hospital_16x16_187: -951345951
-      12_Hotel_and_Hospital_16x16_923: 1007696942
-      12_Hotel_and_Hospital_16x16_392: -1659238373
+      12_Hotel_and_Hospital_16x16_933: 1353688906
+      12_Hotel_and_Hospital_16x16_1206: 1492145975
+      12_Hotel_and_Hospital_16x16_993: -1086081823
       12_Hotel_and_Hospital_16x16_82: -71968858
-      12_Hotel_and_Hospital_16x16_333: -553171767
       12_Hotel_and_Hospital_16x16_403: -1559107844
-      12_Hotel_and_Hospital_16x16_765: -1159506740
+      12_Hotel_and_Hospital_16x16_923: 1007696942
       12_Hotel_and_Hospital_16x16_535: 588990689
       12_Hotel_and_Hospital_16x16_551: -824303351
-      12_Hotel_and_Hospital_16x16_993: -1086081823
+      12_Hotel_and_Hospital_16x16_333: -553171767
       12_Hotel_and_Hospital_16x16_1051: -1829416646
       12_Hotel_and_Hospital_16x16_818: -1018176029
       12_Hotel_and_Hospital_16x16_1101: -932203525
       12_Hotel_and_Hospital_16x16_843: -193200479
-      12_Hotel_and_Hospital_16x16_933: 1353688906
       12_Hotel_and_Hospital_16x16_387: 1515175749
+      12_Hotel_and_Hospital_16x16_765: -1159506740
       12_Hotel_and_Hospital_16x16_316: 850282808
-      12_Hotel_and_Hospital_16x16_1206: 1492145975
       12_Hotel_and_Hospital_16x16_495: 1969207062
+      12_Hotel_and_Hospital_16x16_392: -1659238373
       12_Hotel_and_Hospital_16x16_533: 1092797728
       12_Hotel_and_Hospital_16x16_419: -728424643
       12_Hotel_and_Hospital_16x16_898: 377426923
@@ -26292,9 +26292,9 @@ TextureImporter:
       12_Hotel_and_Hospital_16x16_466: -1447341098
       12_Hotel_and_Hospital_16x16_1134: 831032425
       12_Hotel_and_Hospital_16x16_664: -1500531184
+      12_Hotel_and_Hospital_16x16_122: -1238346546
       12_Hotel_and_Hospital_16x16_104: 1823562632
       12_Hotel_and_Hospital_16x16_258: -1734135688
-      12_Hotel_and_Hospital_16x16_122: -1238346546
       12_Hotel_and_Hospital_16x16_807: -1156076234
       12_Hotel_and_Hospital_16x16_115: 599229015
       12_Hotel_and_Hospital_16x16_640: -1277199955
@@ -26578,12 +26578,11 @@ TextureImporter:
       12_Hotel_and_Hospital_16x16_137: -659346374
       12_Hotel_and_Hospital_16x16_447: 716864352
       12_Hotel_and_Hospital_16x16_237: -1150237816
-      12_Hotel_and_Hospital_16x16_520: -1673569260
-      12_Hotel_and_Hospital_16x16_602: -495212921
       12_Hotel_and_Hospital_16x16_744: -1764757596
+      12_Hotel_and_Hospital_16x16_602: -495212921
+      12_Hotel_and_Hospital_16x16_789: -1130867621
       12_Hotel_and_Hospital_16x16_1226: 2073296594
       12_Hotel_and_Hospital_16x16_727: -1088432429
-      12_Hotel_and_Hospital_16x16_789: -1130867621
       12_Hotel_and_Hospital_16x16_1012: -2074397408
       12_Hotel_and_Hospital_16x16_949: 2133957599
       12_Hotel_and_Hospital_16x16_1020: -1935724346
@@ -26593,43 +26592,44 @@ TextureImporter:
       12_Hotel_and_Hospital_16x16_680: 333004407
       12_Hotel_and_Hospital_16x16_841: 878997954
       12_Hotel_and_Hospital_16x16_241: -175802367
-      12_Hotel_and_Hospital_16x16_478: -1234430771
+      12_Hotel_and_Hospital_16x16_722: 1585685227
       12_Hotel_and_Hospital_16x16_64: 1298511116
-      12_Hotel_and_Hospital_16x16_96: -1865574808
+      12_Hotel_and_Hospital_16x16_523: -858670211
       12_Hotel_and_Hospital_16x16_165: -1554565947
       12_Hotel_and_Hospital_16x16_234: 1367576291
-      12_Hotel_and_Hospital_16x16_523: -858670211
-      12_Hotel_and_Hospital_16x16_722: 1585685227
+      12_Hotel_and_Hospital_16x16_478: -1234430771
       12_Hotel_and_Hospital_16x16_647: -40011606
       12_Hotel_and_Hospital_16x16_93: -828460144
       12_Hotel_and_Hospital_16x16_489: 145292831
       12_Hotel_and_Hospital_16x16_366: 2033218074
+      12_Hotel_and_Hospital_16x16_520: -1673569260
       12_Hotel_and_Hospital_16x16_88: 341692056
-      12_Hotel_and_Hospital_16x16_436: 171580458
-      12_Hotel_and_Hospital_16x16_925: -2063419893
-      12_Hotel_and_Hospital_16x16_390: -1324256782
-      12_Hotel_and_Hospital_16x16_539: -37235644
       12_Hotel_and_Hospital_16x16_1066: 1853709691
-      12_Hotel_and_Hospital_16x16_778: 1359179296
+      12_Hotel_and_Hospital_16x16_436: 171580458
+      12_Hotel_and_Hospital_16x16_390: -1324256782
+      12_Hotel_and_Hospital_16x16_96: -1865574808
+      12_Hotel_and_Hospital_16x16_1115: -1377171774
       12_Hotel_and_Hospital_16x16_124: -1889736998
-      12_Hotel_and_Hospital_16x16_795: 924250763
       12_Hotel_and_Hospital_16x16_858: -1175403035
+      12_Hotel_and_Hospital_16x16_539: -37235644
+      12_Hotel_and_Hospital_16x16_795: 924250763
       12_Hotel_and_Hospital_16x16_766: 1412759580
       12_Hotel_and_Hospital_16x16_909: -1938347158
       12_Hotel_and_Hospital_16x16_601: 168492051
-      12_Hotel_and_Hospital_16x16_633: -1755153676
-      12_Hotel_and_Hospital_16x16_313: 12833352
-      12_Hotel_and_Hospital_16x16_1115: -1377171774
-      12_Hotel_and_Hospital_16x16_863: -696829631
-      12_Hotel_and_Hospital_16x16_1174: -750813350
       12_Hotel_and_Hospital_16x16_1003: 991260866
+      12_Hotel_and_Hospital_16x16_313: 12833352
+      12_Hotel_and_Hospital_16x16_633: -1755153676
+      12_Hotel_and_Hospital_16x16_863: -696829631
+      12_Hotel_and_Hospital_16x16_1187: 1588958306
+      12_Hotel_and_Hospital_16x16_778: 1359179296
+      12_Hotel_and_Hospital_16x16_1174: -750813350
       12_Hotel_and_Hospital_16x16_974: 766697825
       12_Hotel_and_Hospital_16x16_634: -516547359
       12_Hotel_and_Hospital_16x16_1067: -528805119
-      12_Hotel_and_Hospital_16x16_1187: 1588958306
       12_Hotel_and_Hospital_16x16_623: 255355670
       12_Hotel_and_Hospital_16x16_1116: -121614681
       12_Hotel_and_Hospital_16x16_991: -1044252349
+      12_Hotel_and_Hospital_16x16_925: -2063419893
       12_Hotel_and_Hospital_16x16_103: -1895008494
       12_Hotel_and_Hospital_16x16_764: 498828829
       12_Hotel_and_Hospital_16x16_1098: 304185251

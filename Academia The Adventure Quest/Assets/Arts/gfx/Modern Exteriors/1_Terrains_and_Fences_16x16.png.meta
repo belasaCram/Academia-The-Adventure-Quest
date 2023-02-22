@@ -111,7 +111,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 2
+    androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
@@ -16060,17 +16060,17 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_486: -768447889
       1_Terrains_and_Fences_16x16_448: 607990346
       1_Terrains_and_Fences_16x16_21: 1449573942
-      1_Terrains_and_Fences_16x16_290: 1223073418
       1_Terrains_and_Fences_16x16_481: 1741099241
-      1_Terrains_and_Fences_16x16_525: 34759898
       1_Terrains_and_Fences_16x16_752: -980204134
+      1_Terrains_and_Fences_16x16_525: 34759898
+      1_Terrains_and_Fences_16x16_290: 1223073418
       1_Terrains_and_Fences_16x16_453: 2140286787
       1_Terrains_and_Fences_16x16_406: -1962708771
       1_Terrains_and_Fences_16x16_611: 1527880571
-      1_Terrains_and_Fences_16x16_199: -169140210
-      1_Terrains_and_Fences_16x16_164: -2046314937
-      1_Terrains_and_Fences_16x16_581: -1485332331
       1_Terrains_and_Fences_16x16_748: 1269259271
+      1_Terrains_and_Fences_16x16_581: -1485332331
+      1_Terrains_and_Fences_16x16_164: -2046314937
+      1_Terrains_and_Fences_16x16_199: -169140210
       1_Terrains_and_Fences_16x16_181: 2132660600
       1_Terrains_and_Fences_16x16_461: -1275653648
       1_Terrains_and_Fences_16x16_173: -903089820
@@ -16101,16 +16101,16 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_708: 722260784
       1_Terrains_and_Fences_16x16_88: 1506208012
       1_Terrains_and_Fences_16x16_553: -705100142
-      1_Terrains_and_Fences_16x16_604: 1240143290
       1_Terrains_and_Fences_16x16_700: -718201137
+      1_Terrains_and_Fences_16x16_604: 1240143290
       1_Terrains_and_Fences_16x16_452: 1853281099
       1_Terrains_and_Fences_16x16_117: -608684248
       1_Terrains_and_Fences_16x16_487: -882048240
       1_Terrains_and_Fences_16x16_103: -2144637183
-      1_Terrains_and_Fences_16x16_106: 109803085
       1_Terrains_and_Fences_16x16_741: 499229895
-      1_Terrains_and_Fences_16x16_350: -662675192
+      1_Terrains_and_Fences_16x16_106: 109803085
       1_Terrains_and_Fences_16x16_39: 93730470
+      1_Terrains_and_Fences_16x16_350: -662675192
       1_Terrains_and_Fences_16x16_620: 881094416
       1_Terrains_and_Fences_16x16_267: 514807184
       1_Terrains_and_Fences_16x16_170: 1487760527
@@ -16150,8 +16150,8 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_648: -39884322
       1_Terrains_and_Fences_16x16_367: -643896703
       1_Terrains_and_Fences_16x16_153: -1801213987
-      1_Terrains_and_Fences_16x16_674: -1308927464
       1_Terrains_and_Fences_16x16_712: -732280097
+      1_Terrains_and_Fences_16x16_674: -1308927464
       1_Terrains_and_Fences_16x16_400: -1386299446
       1_Terrains_and_Fences_16x16_178: -859420953
       1_Terrains_and_Fences_16x16_436: -1542136360
@@ -16244,12 +16244,12 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_263: 2099991685
       1_Terrains_and_Fences_16x16_429: 1147134678
       1_Terrains_and_Fences_16x16_11: -639070586
-      1_Terrains_and_Fences_16x16_99: -1442950444
       1_Terrains_and_Fences_16x16_678: -1085265657
+      1_Terrains_and_Fences_16x16_99: -1442950444
       1_Terrains_and_Fences_16x16_186: 992027059
       1_Terrains_and_Fences_16x16_196: 2026602833
-      1_Terrains_and_Fences_16x16_462: -1607437209
       1_Terrains_and_Fences_16x16_641: 275007706
+      1_Terrains_and_Fences_16x16_462: -1607437209
       1_Terrains_and_Fences_16x16_490: 1222917707
       1_Terrains_and_Fences_16x16_476: -107066843
       1_Terrains_and_Fences_16x16_551: 1111052702
@@ -16324,9 +16324,9 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_598: 1429223984
       1_Terrains_and_Fences_16x16_593: -1068445179
       1_Terrains_and_Fences_16x16_30: 1374198448
-      1_Terrains_and_Fences_16x16_736: 607011193
       1_Terrains_and_Fences_16x16_747: -624949790
       1_Terrains_and_Fences_16x16_228: -652840045
+      1_Terrains_and_Fences_16x16_736: 607011193
       1_Terrains_and_Fences_16x16_609: -1444454815
       1_Terrains_and_Fences_16x16_422: 256532754
       1_Terrains_and_Fences_16x16_589: -1991062011
@@ -16435,8 +16435,8 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_424: -930831599
       1_Terrains_and_Fences_16x16_535: -997643116
       1_Terrains_and_Fences_16x16_141: -170748675
-      1_Terrains_and_Fences_16x16_252: 1693742395
       1_Terrains_and_Fences_16x16_537: -1492134651
+      1_Terrains_and_Fences_16x16_252: 1693742395
       1_Terrains_and_Fences_16x16_602: -1167676273
       1_Terrains_and_Fences_16x16_493: -259637724
       1_Terrains_and_Fences_16x16_24: 1637102659
@@ -16462,13 +16462,13 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_247: -452368088
       1_Terrains_and_Fences_16x16_95: 1177102610
       1_Terrains_and_Fences_16x16_539: 1369845808
-      1_Terrains_and_Fences_16x16_215: -2133477475
-      1_Terrains_and_Fences_16x16_713: -1625605610
       1_Terrains_and_Fences_16x16_583: -1278960383
+      1_Terrains_and_Fences_16x16_215: -2133477475
       1_Terrains_and_Fences_16x16_496: -1947921025
       1_Terrains_and_Fences_16x16_311: -1188895241
       1_Terrains_and_Fences_16x16_599: -1525357334
       1_Terrains_and_Fences_16x16_272: 1188298632
+      1_Terrains_and_Fences_16x16_713: -1625605610
       1_Terrains_and_Fences_16x16_737: -1297263588
       1_Terrains_and_Fences_16x16_104: 415991480
       1_Terrains_and_Fences_16x16_94: -1147806444
@@ -16493,11 +16493,11 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_312: 1454268954
       1_Terrains_and_Fences_16x16_686: 2016445116
       1_Terrains_and_Fences_16x16_0: 1815368761
-      1_Terrains_and_Fences_16x16_352: 369228106
       1_Terrains_and_Fences_16x16_644: -1150404882
+      1_Terrains_and_Fences_16x16_352: 369228106
       1_Terrains_and_Fences_16x16_511: 1168979513
-      1_Terrains_and_Fences_16x16_679: 1335590824
       1_Terrains_and_Fences_16x16_697: 442161915
+      1_Terrains_and_Fences_16x16_679: 1335590824
       1_Terrains_and_Fences_16x16_366: 1044973376
       1_Terrains_and_Fences_16x16_276: 1328684526
       1_Terrains_and_Fences_16x16_346: 165544387
@@ -16505,8 +16505,8 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_749: -1963634340
       1_Terrains_and_Fences_16x16_414: -1214346789
       1_Terrains_and_Fences_16x16_250: 178904906
-      1_Terrains_and_Fences_16x16_32: 847811832
       1_Terrains_and_Fences_16x16_372: -1977153237
+      1_Terrains_and_Fences_16x16_32: 847811832
       1_Terrains_and_Fences_16x16_19: -1202164910
       1_Terrains_and_Fences_16x16_717: -1261701009
       1_Terrains_and_Fences_16x16_56: -602354269
@@ -16527,8 +16527,8 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_421: 1084408599
       1_Terrains_and_Fences_16x16_513: -1625556911
       1_Terrains_and_Fences_16x16_363: 546208171
-      1_Terrains_and_Fences_16x16_523: -1482576592
       1_Terrains_and_Fences_16x16_578: 1981937382
+      1_Terrains_and_Fences_16x16_523: -1482576592
       1_Terrains_and_Fences_16x16_730: -176381192
       1_Terrains_and_Fences_16x16_75: 736337059
       1_Terrains_and_Fences_16x16_358: 846153386
@@ -16536,8 +16536,8 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_407: 2116357340
       1_Terrains_and_Fences_16x16_460: 832662032
       1_Terrains_and_Fences_16x16_69: 614825323
-      1_Terrains_and_Fences_16x16_694: -637674524
       1_Terrains_and_Fences_16x16_716: -475964875
+      1_Terrains_and_Fences_16x16_694: -637674524
       1_Terrains_and_Fences_16x16_72: 87953043
       1_Terrains_and_Fences_16x16_706: -1050334824
       1_Terrains_and_Fences_16x16_723: -281208381
@@ -16638,8 +16638,8 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_325: -1826903686
       1_Terrains_and_Fences_16x16_369: 1179840646
       1_Terrains_and_Fences_16x16_295: 984500027
-      1_Terrains_and_Fences_16x16_415: -1821405570
       1_Terrains_and_Fences_16x16_704: 1353351880
+      1_Terrains_and_Fences_16x16_415: -1821405570
       1_Terrains_and_Fences_16x16_554: 2101068602
       1_Terrains_and_Fences_16x16_73: 1192627205
       1_Terrains_and_Fences_16x16_270: 1486054164

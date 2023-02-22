@@ -111,7 +111,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 2
+    androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
@@ -41076,6 +41076,7 @@ TextureImporter:
       3_City_Props_16x16_1853: 1279964827
       3_City_Props_16x16_1003: -939411476
       3_City_Props_16x16_1622: 1010342312
+      3_City_Props_16x16_1925: -989703976
       3_City_Props_16x16_672: 1781683139
       3_City_Props_16x16_1660: 1178104798
       3_City_Props_16x16_1840: -1469263354
@@ -41087,31 +41088,30 @@ TextureImporter:
       3_City_Props_16x16_264: -1236781081
       3_City_Props_16x16_1301: 223492352
       3_City_Props_16x16_1922: -747268062
-      3_City_Props_16x16_1925: -989703976
       3_City_Props_16x16_642: -3561010
       3_City_Props_16x16_1104: 161594548
-      3_City_Props_16x16_1140: -517422229
       3_City_Props_16x16_1659: 1815654737
+      3_City_Props_16x16_1140: -517422229
+      3_City_Props_16x16_1714: 1897484995
       3_City_Props_16x16_1570: 639368707
       3_City_Props_16x16_1450: -777765921
       3_City_Props_16x16_1703: 304956182
       3_City_Props_16x16_1237: 1619267998
-      3_City_Props_16x16_1714: 1897484995
       3_City_Props_16x16_643: 586886017
       3_City_Props_16x16_1619: -240854423
       3_City_Props_16x16_668: 122739847
       3_City_Props_16x16_745: -756046337
-      3_City_Props_16x16_723: 1862084152
-      3_City_Props_16x16_905: 812879617
       3_City_Props_16x16_1524: -1709604108
-      3_City_Props_16x16_1787: -1260196728
+      3_City_Props_16x16_905: 812879617
       3_City_Props_16x16_1941: -419061645
+      3_City_Props_16x16_723: 1862084152
+      3_City_Props_16x16_1787: -1260196728
       3_City_Props_16x16_1060: -1155920763
       3_City_Props_16x16_1709: 1981199303
       3_City_Props_16x16_730: 435479183
+      3_City_Props_16x16_1121: 491384510
       3_City_Props_16x16_265: -1221781671
       3_City_Props_16x16_244: 1121874949
-      3_City_Props_16x16_1121: 491384510
       3_City_Props_16x16_156: 487058675
       3_City_Props_16x16_185: 1411751163
       3_City_Props_16x16_1103: 1597131928
@@ -41187,22 +41187,22 @@ TextureImporter:
       3_City_Props_16x16_1454: -1059796326
       3_City_Props_16x16_321: 271571712
       3_City_Props_16x16_275: 1557592681
+      3_City_Props_16x16_1534: 556306265
       3_City_Props_16x16_239: 817662008
       3_City_Props_16x16_163: 1213228508
-      3_City_Props_16x16_942: -632090463
       3_City_Props_16x16_207: 652339285
+      3_City_Props_16x16_942: -632090463
       3_City_Props_16x16_131: -716043782
-      3_City_Props_16x16_1623: -1440784208
       3_City_Props_16x16_608: 376313024
       3_City_Props_16x16_850: -1450609743
-      3_City_Props_16x16_1723: 383731896
+      3_City_Props_16x16_1623: -1440784208
       3_City_Props_16x16_555: -1898517587
+      3_City_Props_16x16_1723: 383731896
       3_City_Props_16x16_1012: -655658761
       3_City_Props_16x16_1514: -1738919239
       3_City_Props_16x16_1352: -1749177087
       3_City_Props_16x16_1088: 282393037
       3_City_Props_16x16_857: 1905122869
-      3_City_Props_16x16_1534: 556306265
       3_City_Props_16x16_35: 316763784
       3_City_Props_16x16_1133: -1731564904
       3_City_Props_16x16_178: -208379661
@@ -41233,10 +41233,10 @@ TextureImporter:
       3_City_Props_16x16_500: 1334389915
       3_City_Props_16x16_1488: -623798208
       3_City_Props_16x16_64: -826436402
-      3_City_Props_16x16_866: -414050643
+      3_City_Props_16x16_1050: 818841839
       3_City_Props_16x16_574: 756379731
       3_City_Props_16x16_1240: 366090088
-      3_City_Props_16x16_1050: 818841839
+      3_City_Props_16x16_866: -414050643
       3_City_Props_16x16_525: 1938595465
       3_City_Props_16x16_1666: 1313914358
       3_City_Props_16x16_1026: 582569883
@@ -41248,8 +41248,8 @@ TextureImporter:
       3_City_Props_16x16_667: 1230738267
       3_City_Props_16x16_1150: -778218754
       3_City_Props_16x16_290: -440067871
-      3_City_Props_16x16_1344: 137633815
       3_City_Props_16x16_1437: 314898316
+      3_City_Props_16x16_1344: 137633815
       3_City_Props_16x16_1031: 1762244077
       3_City_Props_16x16_107: 1625411450
       3_City_Props_16x16_1810: 1425880466
@@ -41533,11 +41533,11 @@ TextureImporter:
       3_City_Props_16x16_2: -1191750199
       3_City_Props_16x16_1664: -2086704966
       3_City_Props_16x16_125: -791613683
-      3_City_Props_16x16_743: -532865290
       3_City_Props_16x16_1733: 610745687
       3_City_Props_16x16_701: -1333962307
-      3_City_Props_16x16_1257: -747720830
+      3_City_Props_16x16_743: -532865290
       3_City_Props_16x16_1137: 1916302954
+      3_City_Props_16x16_1257: -747720830
       3_City_Props_16x16_1891: -1493520511
       3_City_Props_16x16_400: -1432362657
       3_City_Props_16x16_1602: -792436973
@@ -41566,22 +41566,21 @@ TextureImporter:
       3_City_Props_16x16_960: -732178407
       3_City_Props_16x16_1502: -1949099859
       3_City_Props_16x16_815: 619496022
-      3_City_Props_16x16_769: 813938944
       3_City_Props_16x16_1321: -597056423
+      3_City_Props_16x16_769: 813938944
       3_City_Props_16x16_1605: 1871324419
       3_City_Props_16x16_512: -1804456548
       3_City_Props_16x16_515: -254593703
       3_City_Props_16x16_997: 1057571730
       3_City_Props_16x16_1203: 210994560
       3_City_Props_16x16_375: 2078218102
-      3_City_Props_16x16_408: -1237094977
       3_City_Props_16x16_821: -1564984612
       3_City_Props_16x16_139: 664151520
       3_City_Props_16x16_343: 1907357064
       3_City_Props_16x16_546: 1541872212
       3_City_Props_16x16_149: 2118933292
       3_City_Props_16x16_794: -1614785316
-      3_City_Props_16x16_1611: -446685835
+      3_City_Props_16x16_408: -1237094977
       3_City_Props_16x16_1064: -633056794
       3_City_Props_16x16_1105: -1287887047
       3_City_Props_16x16_424: 1041087355
@@ -41592,6 +41591,7 @@ TextureImporter:
       3_City_Props_16x16_1541: -1094446716
       3_City_Props_16x16_1926: 1799388094
       3_City_Props_16x16_84: 2062994778
+      3_City_Props_16x16_1611: -446685835
       3_City_Props_16x16_1267: -1627960116
       3_City_Props_16x16_1351: 574345448
       3_City_Props_16x16_1316: -384594035
@@ -41612,15 +41612,15 @@ TextureImporter:
       3_City_Props_16x16_1095: 362841339
       3_City_Props_16x16_1007: 1483642793
       3_City_Props_16x16_884: 1995998618
-      3_City_Props_16x16_948: -1103796029
       3_City_Props_16x16_1705: -832495246
       3_City_Props_16x16_613: 451496571
       3_City_Props_16x16_93: -1619839993
+      3_City_Props_16x16_948: -1103796029
       3_City_Props_16x16_1270: -752740504
       3_City_Props_16x16_892: -1338706411
-      3_City_Props_16x16_1581: 2082718944
       3_City_Props_16x16_1939: 490315934
       3_City_Props_16x16_567: -279916725
+      3_City_Props_16x16_1581: 2082718944
       3_City_Props_16x16_516: 1626565960
       3_City_Props_16x16_1093: 2097773273
       3_City_Props_16x16_1107: 1529099797
@@ -41632,9 +41632,9 @@ TextureImporter:
       3_City_Props_16x16_928: 468589582
       3_City_Props_16x16_1247: 1582665726
       3_City_Props_16x16_1815: -1022146916
+      3_City_Props_16x16_1837: 127321229
       3_City_Props_16x16_1654: -113042176
       3_City_Props_16x16_1803: 299814012
-      3_City_Props_16x16_1837: 127321229
       3_City_Props_16x16_902: 1076102025
       3_City_Props_16x16_957: -1268401477
       3_City_Props_16x16_1725: 322181563
@@ -42050,12 +42050,12 @@ TextureImporter:
       3_City_Props_16x16_21: -1546278852
       3_City_Props_16x16_426: -1928665254
       3_City_Props_16x16_782: 459247283
+      3_City_Props_16x16_1418: 335861086
       3_City_Props_16x16_299: 931843961
-      3_City_Props_16x16_679: -508905478
       3_City_Props_16x16_1246: 1298741611
       3_City_Props_16x16_194: 1069514061
       3_City_Props_16x16_324: 394631567
-      3_City_Props_16x16_1418: 335861086
+      3_City_Props_16x16_679: -508905478
       3_City_Props_16x16_146: -2019163032
       3_City_Props_16x16_1496: -1093200179
       3_City_Props_16x16_1608: -210239890
@@ -42069,9 +42069,9 @@ TextureImporter:
       3_City_Props_16x16_731: 659867327
       3_City_Props_16x16_511: -656315454
       3_City_Props_16x16_1918: 1337041000
+      3_City_Props_16x16_1526: 97521080
       3_City_Props_16x16_955: -1929287837
       3_City_Props_16x16_674: -1057561260
-      3_City_Props_16x16_1526: 97521080
       3_City_Props_16x16_783: 1570209989
       3_City_Props_16x16_189: 1634234278
       3_City_Props_16x16_825: -1761170186
@@ -42083,28 +42083,28 @@ TextureImporter:
       3_City_Props_16x16_503: 837078302
       3_City_Props_16x16_281: -966818276
       3_City_Props_16x16_691: -931150178
-      3_City_Props_16x16_1324: -1479309613
+      3_City_Props_16x16_1653: 560584451
       3_City_Props_16x16_871: 1595339077
       3_City_Props_16x16_1822: -1925817095
-      3_City_Props_16x16_1653: 560584451
       3_City_Props_16x16_1201: 75476176
       3_City_Props_16x16_1207: -1649017010
       3_City_Props_16x16_1016: -1079516847
+      3_City_Props_16x16_1324: -1479309613
       3_City_Props_16x16_1068: -114729280
       3_City_Props_16x16_1403: 1003073351
       3_City_Props_16x16_879: 1993591946
       3_City_Props_16x16_315: 544543189
+      3_City_Props_16x16_1802: -192250338
       3_City_Props_16x16_38: -1138893092
       3_City_Props_16x16_597: -1228169287
-      3_City_Props_16x16_1802: -192250338
       3_City_Props_16x16_1505: 1935843321
       3_City_Props_16x16_764: 1984882301
       3_City_Props_16x16_18: 2092187936
       3_City_Props_16x16_175: 1061778556
       3_City_Props_16x16_478: 490394760
-      3_City_Props_16x16_977: 1576244344
       3_City_Props_16x16_1386: 4614306
       3_City_Props_16x16_844: -1951897399
+      3_City_Props_16x16_977: 1576244344
       3_City_Props_16x16_1348: -1370981033
       3_City_Props_16x16_1867: -1130484819
       3_City_Props_16x16_1620: 738852545
@@ -42128,9 +42128,9 @@ TextureImporter:
       3_City_Props_16x16_908: -1362053941
       3_City_Props_16x16_308: 1952929656
       3_City_Props_16x16_60: 1615038510
-      3_City_Props_16x16_420: 1757539880
-      3_City_Props_16x16_856: 1625860505
       3_City_Props_16x16_1928: 843445129
+      3_City_Props_16x16_856: 1625860505
+      3_City_Props_16x16_420: 1757539880
       3_City_Props_16x16_1924: -688888875
       3_City_Props_16x16_1261: 547461320
       3_City_Props_16x16_1616: 1151514557
@@ -42179,8 +42179,8 @@ TextureImporter:
       3_City_Props_16x16_1151: 1581612547
       3_City_Props_16x16_1930: 680856820
       3_City_Props_16x16_148: 1402150588
-      3_City_Props_16x16_590: -342629365
       3_City_Props_16x16_1610: -791674368
+      3_City_Props_16x16_590: -342629365
       3_City_Props_16x16_527: -738939869
       3_City_Props_16x16_1522: 1863684808
       3_City_Props_16x16_1027: -1611272473
@@ -42190,9 +42190,9 @@ TextureImporter:
       3_City_Props_16x16_810: -1820729926
       3_City_Props_16x16_910: -415538604
       3_City_Props_16x16_85: -1793470222
-      3_City_Props_16x16_225: -850761543
       3_City_Props_16x16_604: -143649782
       3_City_Props_16x16_612: 1894841892
+      3_City_Props_16x16_225: -850761543
       3_City_Props_16x16_1082: -1020870868
       3_City_Props_16x16_1130: -1793860579
       3_City_Props_16x16_1812: 1418563570
@@ -42273,9 +42273,9 @@ TextureImporter:
       3_City_Props_16x16_94: 646100156
       3_City_Props_16x16_295: 125290373
       3_City_Props_16x16_1652: -125219102
-      3_City_Props_16x16_638: -1700550242
       3_City_Props_16x16_1731: -1703156497
       3_City_Props_16x16_1374: 1883749488
+      3_City_Props_16x16_638: -1700550242
       3_City_Props_16x16_1509: -2024049447
       3_City_Props_16x16_676: -32937457
       3_City_Props_16x16_154: 482918831
@@ -42307,10 +42307,10 @@ TextureImporter:
       3_City_Props_16x16_1719: -1096590585
       3_City_Props_16x16_700: 928553101
       3_City_Props_16x16_1077: -497154677
-      3_City_Props_16x16_1245: 1813014985
       3_City_Props_16x16_1842: -178096145
       3_City_Props_16x16_1158: 2024880068
       3_City_Props_16x16_1: 503453386
+      3_City_Props_16x16_1245: 1813014985
       3_City_Props_16x16_1777: 1819725387
       3_City_Props_16x16_565: 1504464624
       3_City_Props_16x16_599: 1280746542

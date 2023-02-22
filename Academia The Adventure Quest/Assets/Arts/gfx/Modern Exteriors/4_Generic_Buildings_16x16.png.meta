@@ -111,7 +111,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
-    androidETC2FallbackOverride: 2
+    androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
@@ -53453,7 +53453,6 @@ TextureImporter:
       4_Generic_Buildings_16x16_1020: -1277067375
       4_Generic_Buildings_16x16_266: 423573561
       4_Generic_Buildings_16x16_997: 793203110
-      4_Generic_Buildings_16x16_2295: -1127439451
       4_Generic_Buildings_16x16_982: 770863761
       4_Generic_Buildings_16x16_1970: -627038837
       4_Generic_Buildings_16x16_457: -669243071
@@ -53488,10 +53487,10 @@ TextureImporter:
       4_Generic_Buildings_16x16_2385: 1950179112
       4_Generic_Buildings_16x16_492: 1237116527
       4_Generic_Buildings_16x16_2358: 335558742
-      4_Generic_Buildings_16x16_966: -419092069
+      4_Generic_Buildings_16x16_1089: 529290538
       4_Generic_Buildings_16x16_888: 296237006
       4_Generic_Buildings_16x16_624: -1796846143
-      4_Generic_Buildings_16x16_1089: 529290538
+      4_Generic_Buildings_16x16_966: -419092069
       4_Generic_Buildings_16x16_1837: 840577129
       4_Generic_Buildings_16x16_654: -1709476291
       4_Generic_Buildings_16x16_78: 1339269201
@@ -53531,12 +53530,12 @@ TextureImporter:
       4_Generic_Buildings_16x16_873: 1416145715
       4_Generic_Buildings_16x16_1211: -586916577
       4_Generic_Buildings_16x16_736: -1219286577
-      4_Generic_Buildings_16x16_413: 2107174872
-      4_Generic_Buildings_16x16_1590: 1277900662
+      4_Generic_Buildings_16x16_2535: 1350641489
       4_Generic_Buildings_16x16_2186: 546076696
+      4_Generic_Buildings_16x16_413: 2107174872
       4_Generic_Buildings_16x16_69: 1813497971
       4_Generic_Buildings_16x16_620: -1442408764
-      4_Generic_Buildings_16x16_2535: 1350641489
+      4_Generic_Buildings_16x16_1590: 1277900662
       4_Generic_Buildings_16x16_1580: -2055260783
       4_Generic_Buildings_16x16_284: -792923248
       4_Generic_Buildings_16x16_2150: -1485344659
@@ -53594,22 +53593,22 @@ TextureImporter:
       4_Generic_Buildings_16x16_2412: -1739958553
       4_Generic_Buildings_16x16_2101: -480427761
       4_Generic_Buildings_16x16_802: 1972937683
+      4_Generic_Buildings_16x16_2400: 1839454359
       4_Generic_Buildings_16x16_2269: -840488435
       4_Generic_Buildings_16x16_576: -634322506
       4_Generic_Buildings_16x16_568: -237361953
       4_Generic_Buildings_16x16_675: -1869892058
-      4_Generic_Buildings_16x16_2: 162815421
-      4_Generic_Buildings_16x16_846: -2077592830
+      4_Generic_Buildings_16x16_1813: 372194635
       4_Generic_Buildings_16x16_1386: 2128894189
+      4_Generic_Buildings_16x16_2: 162815421
       4_Generic_Buildings_16x16_261: -940535350
       4_Generic_Buildings_16x16_217: -2132569122
+      4_Generic_Buildings_16x16_846: -2077592830
       4_Generic_Buildings_16x16_414: 1982862390
       4_Generic_Buildings_16x16_390: 1810157054
       4_Generic_Buildings_16x16_2496: 914725489
       4_Generic_Buildings_16x16_856: -671056302
       4_Generic_Buildings_16x16_227: 899530770
-      4_Generic_Buildings_16x16_1813: 372194635
-      4_Generic_Buildings_16x16_2400: 1839454359
       4_Generic_Buildings_16x16_2533: -788893165
       4_Generic_Buildings_16x16_1273: -2059708410
       4_Generic_Buildings_16x16_15: -109687139
@@ -53711,10 +53710,11 @@ TextureImporter:
       4_Generic_Buildings_16x16_2230: -658191515
       4_Generic_Buildings_16x16_156: -1848075248
       4_Generic_Buildings_16x16_553: -2015190189
+      4_Generic_Buildings_16x16_2326: 102747873
       4_Generic_Buildings_16x16_2135: -1556079724
       4_Generic_Buildings_16x16_1447: -1759480008
-      4_Generic_Buildings_16x16_1464: 62257219
       4_Generic_Buildings_16x16_2129: 1616633385
+      4_Generic_Buildings_16x16_1464: 62257219
       4_Generic_Buildings_16x16_103: 617945825
       4_Generic_Buildings_16x16_1727: 1121751568
       4_Generic_Buildings_16x16_430: -61545274
@@ -53765,7 +53765,6 @@ TextureImporter:
       4_Generic_Buildings_16x16_1855: -1202963784
       4_Generic_Buildings_16x16_2320: -1472575401
       4_Generic_Buildings_16x16_1839: 122418090
-      4_Generic_Buildings_16x16_2326: 102747873
       4_Generic_Buildings_16x16_768: 364887494
       4_Generic_Buildings_16x16_1329: -1947681227
       4_Generic_Buildings_16x16_1747: 17244926
@@ -53783,11 +53782,11 @@ TextureImporter:
       4_Generic_Buildings_16x16_168: 595640853
       4_Generic_Buildings_16x16_890: -431545266
       4_Generic_Buildings_16x16_403: -295409225
-      4_Generic_Buildings_16x16_848: -42339436
+      4_Generic_Buildings_16x16_1816: 1286699148
       4_Generic_Buildings_16x16_1114: 1359414587
       4_Generic_Buildings_16x16_1196: 1441134112
       4_Generic_Buildings_16x16_2485: 1246933836
-      4_Generic_Buildings_16x16_1816: 1286699148
+      4_Generic_Buildings_16x16_848: -42339436
       4_Generic_Buildings_16x16_2467: -952268749
       4_Generic_Buildings_16x16_2023: 573093876
       4_Generic_Buildings_16x16_1437: 572862021
@@ -54075,8 +54074,8 @@ TextureImporter:
       4_Generic_Buildings_16x16_567: 952415563
       4_Generic_Buildings_16x16_1227: 1022887715
       4_Generic_Buildings_16x16_389: 638173782
-      4_Generic_Buildings_16x16_17: 1279987763
       4_Generic_Buildings_16x16_764: 692877836
+      4_Generic_Buildings_16x16_17: 1279987763
       4_Generic_Buildings_16x16_2471: 457185844
       4_Generic_Buildings_16x16_1167: -1624293719
       4_Generic_Buildings_16x16_1244: 1593075276
@@ -54084,10 +54083,10 @@ TextureImporter:
       4_Generic_Buildings_16x16_1866: -323746495
       4_Generic_Buildings_16x16_2001: 900304049
       4_Generic_Buildings_16x16_1284: -552296860
-      4_Generic_Buildings_16x16_184: 139788005
-      4_Generic_Buildings_16x16_283: -1411964385
       4_Generic_Buildings_16x16_1643: -1059153113
+      4_Generic_Buildings_16x16_283: -1411964385
       4_Generic_Buildings_16x16_2192: -567066607
+      4_Generic_Buildings_16x16_184: 139788005
       4_Generic_Buildings_16x16_1964: -1852911171
       4_Generic_Buildings_16x16_1510: -1060275432
       4_Generic_Buildings_16x16_2534: 179533374
@@ -54105,11 +54104,11 @@ TextureImporter:
       4_Generic_Buildings_16x16_2168: -568954404
       4_Generic_Buildings_16x16_1725: -794166869
       4_Generic_Buildings_16x16_357: 471799690
-      4_Generic_Buildings_16x16_782: 323847020
-      4_Generic_Buildings_16x16_2053: 1750550673
       4_Generic_Buildings_16x16_1838: 1066405358
-      4_Generic_Buildings_16x16_2346: -700699275
+      4_Generic_Buildings_16x16_782: 323847020
       4_Generic_Buildings_16x16_2472: -956498140
+      4_Generic_Buildings_16x16_2346: -700699275
+      4_Generic_Buildings_16x16_2053: 1750550673
       4_Generic_Buildings_16x16_1974: 901864319
       4_Generic_Buildings_16x16_2403: -135835733
       4_Generic_Buildings_16x16_784: -1666710405
@@ -54699,15 +54698,16 @@ TextureImporter:
       4_Generic_Buildings_16x16_57: 1991473833
       4_Generic_Buildings_16x16_269: -709269754
       4_Generic_Buildings_16x16_209: 1913679515
-      4_Generic_Buildings_16x16_1506: 1808914487
+      4_Generic_Buildings_16x16_2322: 120922112
+      4_Generic_Buildings_16x16_2360: 1347725784
       4_Generic_Buildings_16x16_903: -1456452301
-      4_Generic_Buildings_16x16_1695: -278818442
+      4_Generic_Buildings_16x16_1506: 1808914487
       4_Generic_Buildings_16x16_1234: 1107828704
+      4_Generic_Buildings_16x16_1695: -278818442
       4_Generic_Buildings_16x16_2145: 628660081
       4_Generic_Buildings_16x16_353: 966636441
       4_Generic_Buildings_16x16_1739: -2108675432
       4_Generic_Buildings_16x16_1082: -1659342867
-      4_Generic_Buildings_16x16_2322: 120922112
       4_Generic_Buildings_16x16_488: 756216740
       4_Generic_Buildings_16x16_177: -1390674561
       4_Generic_Buildings_16x16_1564: 1747812433
@@ -54716,9 +54716,8 @@ TextureImporter:
       4_Generic_Buildings_16x16_276: 1188111611
       4_Generic_Buildings_16x16_2384: -1104572656
       4_Generic_Buildings_16x16_2113: -247681394
-      4_Generic_Buildings_16x16_1920: -903484122
-      4_Generic_Buildings_16x16_2360: 1347725784
       4_Generic_Buildings_16x16_2486: 1343446680
+      4_Generic_Buildings_16x16_1920: -903484122
       4_Generic_Buildings_16x16_2063: 977603488
       4_Generic_Buildings_16x16_1173: -549583568
       4_Generic_Buildings_16x16_439: -2071091064
@@ -54726,14 +54725,14 @@ TextureImporter:
       4_Generic_Buildings_16x16_4: 1674283705
       4_Generic_Buildings_16x16_739: -1843693572
       4_Generic_Buildings_16x16_48: -1367526836
-      4_Generic_Buildings_16x16_1180: -1705173804
       4_Generic_Buildings_16x16_1415: 1926678631
+      4_Generic_Buildings_16x16_2151: -1185574636
       4_Generic_Buildings_16x16_834: -1581564835
       4_Generic_Buildings_16x16_74: 1607929133
       4_Generic_Buildings_16x16_312: 1249501639
+      4_Generic_Buildings_16x16_1180: -1705173804
       4_Generic_Buildings_16x16_1371: 1798377819
       4_Generic_Buildings_16x16_53: 777068085
-      4_Generic_Buildings_16x16_2151: -1185574636
       4_Generic_Buildings_16x16_671: 267937810
       4_Generic_Buildings_16x16_1653: -2022617881
       4_Generic_Buildings_16x16_1285: 539638747
@@ -54742,40 +54741,39 @@ TextureImporter:
       4_Generic_Buildings_16x16_1817: 1124803291
       4_Generic_Buildings_16x16_507: -2142193290
       4_Generic_Buildings_16x16_644: -138660149
-      4_Generic_Buildings_16x16_1525: 764523145
-      4_Generic_Buildings_16x16_1100: 73461016
-      4_Generic_Buildings_16x16_1655: -118409342
       4_Generic_Buildings_16x16_2443: -411385049
+      4_Generic_Buildings_16x16_1100: 73461016
+      4_Generic_Buildings_16x16_1525: 764523145
+      4_Generic_Buildings_16x16_2490: -1546501243
       4_Generic_Buildings_16x16_129: -1160298333
-      4_Generic_Buildings_16x16_348: -226602796
-      4_Generic_Buildings_16x16_1394: -750762231
       4_Generic_Buildings_16x16_448: 1289716019
+      4_Generic_Buildings_16x16_1394: -750762231
       4_Generic_Buildings_16x16_1418: -2043906896
+      4_Generic_Buildings_16x16_348: -226602796
+      4_Generic_Buildings_16x16_2350: 1564577716
       4_Generic_Buildings_16x16_577: -830009431
       4_Generic_Buildings_16x16_182: -1749219067
       4_Generic_Buildings_16x16_2028: 238842802
-      4_Generic_Buildings_16x16_803: 1895674493
-      4_Generic_Buildings_16x16_926: -1985200974
       4_Generic_Buildings_16x16_2147: 2095295821
+      4_Generic_Buildings_16x16_926: -1985200974
       4_Generic_Buildings_16x16_947: 1888496095
       4_Generic_Buildings_16x16_1015: -1456072481
-      4_Generic_Buildings_16x16_2490: -1546501243
       4_Generic_Buildings_16x16_763: 560030067
       4_Generic_Buildings_16x16_1312: 1053984466
       4_Generic_Buildings_16x16_243: 1715956243
       4_Generic_Buildings_16x16_100: -683034206
+      4_Generic_Buildings_16x16_1655: -118409342
       4_Generic_Buildings_16x16_1591: -250165006
       4_Generic_Buildings_16x16_2149: 1609850048
       4_Generic_Buildings_16x16_557: 1342995091
       4_Generic_Buildings_16x16_1566: -1985908186
-      4_Generic_Buildings_16x16_1451: -768053600
+      4_Generic_Buildings_16x16_803: 1895674493
       4_Generic_Buildings_16x16_1948: -1750220464
       4_Generic_Buildings_16x16_1307: 1259746711
       4_Generic_Buildings_16x16_1222: 264216977
       4_Generic_Buildings_16x16_1779: 873407244
       4_Generic_Buildings_16x16_1139: -1583464046
       4_Generic_Buildings_16x16_1023: 696546290
-      4_Generic_Buildings_16x16_2350: 1564577716
       4_Generic_Buildings_16x16_2355: -2099684947
       4_Generic_Buildings_16x16_2044: 753910838
       4_Generic_Buildings_16x16_563: -735965448
@@ -54784,9 +54782,11 @@ TextureImporter:
       4_Generic_Buildings_16x16_1604: -190413472
       4_Generic_Buildings_16x16_587: -412703546
       4_Generic_Buildings_16x16_1923: 1821411352
-      4_Generic_Buildings_16x16_24: -1509553281
+      4_Generic_Buildings_16x16_1451: -768053600
+      4_Generic_Buildings_16x16_2444: -1870942806
       4_Generic_Buildings_16x16_294: 823266783
       4_Generic_Buildings_16x16_1666: 1667556766
+      4_Generic_Buildings_16x16_24: -1509553281
       4_Generic_Buildings_16x16_2375: -459254562
       4_Generic_Buildings_16x16_1065: -625391411
       4_Generic_Buildings_16x16_2264: -1214619846
@@ -54798,7 +54798,6 @@ TextureImporter:
       4_Generic_Buildings_16x16_2377: -2075682135
       4_Generic_Buildings_16x16_1878: 1009819653
       4_Generic_Buildings_16x16_2429: -1411471377
-      4_Generic_Buildings_16x16_2444: -1870942806
       4_Generic_Buildings_16x16_1012: 1758852736
       4_Generic_Buildings_16x16_2154: 1399854587
       4_Generic_Buildings_16x16_85: -270040281
@@ -54809,23 +54808,23 @@ TextureImporter:
       4_Generic_Buildings_16x16_29: -1484153883
       4_Generic_Buildings_16x16_337: 869067384
       4_Generic_Buildings_16x16_694: 661908654
-      4_Generic_Buildings_16x16_1141: 890036732
-      4_Generic_Buildings_16x16_648: -1307983164
-      4_Generic_Buildings_16x16_1430: 1301803738
       4_Generic_Buildings_16x16_1956: -446104005
-      4_Generic_Buildings_16x16_1471: -617908434
-      4_Generic_Buildings_16x16_1767: 1437262221
-      4_Generic_Buildings_16x16_839: -1272061020
-      4_Generic_Buildings_16x16_1661: 1608203013
-      4_Generic_Buildings_16x16_709: 1269137846
-      4_Generic_Buildings_16x16_600: -1387418390
-      4_Generic_Buildings_16x16_1331: -404757402
+      4_Generic_Buildings_16x16_648: -1307983164
       4_Generic_Buildings_16x16_2333: 744993923
-      4_Generic_Buildings_16x16_1370: 1441950319
+      4_Generic_Buildings_16x16_1430: 1301803738
+      4_Generic_Buildings_16x16_1141: 890036732
+      4_Generic_Buildings_16x16_839: -1272061020
+      4_Generic_Buildings_16x16_1471: -617908434
+      4_Generic_Buildings_16x16_1661: 1608203013
+      4_Generic_Buildings_16x16_1767: 1437262221
+      4_Generic_Buildings_16x16_600: -1387418390
+      4_Generic_Buildings_16x16_709: 1269137846
+      4_Generic_Buildings_16x16_2488: -663948070
+      4_Generic_Buildings_16x16_1331: -404757402
       4_Generic_Buildings_16x16_641: -1701970264
       4_Generic_Buildings_16x16_1776: 1143970649
+      4_Generic_Buildings_16x16_1370: 1441950319
       4_Generic_Buildings_16x16_2114: 951800710
-      4_Generic_Buildings_16x16_2488: -663948070
       4_Generic_Buildings_16x16_1722: -1702713288
       4_Generic_Buildings_16x16_632: -686948587
       4_Generic_Buildings_16x16_2394: 1865115756
@@ -55982,10 +55981,11 @@ TextureImporter:
       4_Generic_Buildings_16x16_473: -880658592
       4_Generic_Buildings_16x16_1605: -1035898763
       4_Generic_Buildings_16x16_1417: 39396328
+      4_Generic_Buildings_16x16_2295: -1127439451
       4_Generic_Buildings_16x16_242: 1165525011
       4_Generic_Buildings_16x16_1101: -681190043
-      4_Generic_Buildings_16x16_2497: -1659544999
       4_Generic_Buildings_16x16_1908: 1934880048
+      4_Generic_Buildings_16x16_2497: -1659544999
       4_Generic_Buildings_16x16_1683: -371662833
   spritePackingTag: 
   pSDRemoveMatte: 0
