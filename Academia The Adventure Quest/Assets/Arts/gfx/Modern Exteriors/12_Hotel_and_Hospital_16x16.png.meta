@@ -105,9 +105,9 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 50
+    textureFormat: 33
     textureCompression: 1
-    compressionQuality: 50
+    compressionQuality: 16
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
@@ -26095,39 +26095,39 @@ TextureImporter:
       12_Hotel_and_Hospital_16x16_412: -1947145395
       12_Hotel_and_Hospital_16x16_360: -288344110
       12_Hotel_and_Hospital_16x16_233: -442623813
+      12_Hotel_and_Hospital_16x16_1051: -1829416646
       12_Hotel_and_Hospital_16x16_184: -1738212555
-      12_Hotel_and_Hospital_16x16_883: -780084129
       12_Hotel_and_Hospital_16x16_252: -1718573279
+      12_Hotel_and_Hospital_16x16_883: -780084129
       12_Hotel_and_Hospital_16x16_977: 333836409
       12_Hotel_and_Hospital_16x16_956: -375600805
       12_Hotel_and_Hospital_16x16_320: 143342543
-      12_Hotel_and_Hospital_16x16_1033: 419308237
       12_Hotel_and_Hospital_16x16_57: -478053977
+      12_Hotel_and_Hospital_16x16_1033: 419308237
       12_Hotel_and_Hospital_16x16_194: 1182569421
-      12_Hotel_and_Hospital_16x16_368: -493021186
       12_Hotel_and_Hospital_16x16_26: -493891735
+      12_Hotel_and_Hospital_16x16_368: -493021186
       12_Hotel_and_Hospital_16x16_552: -111996346
-      12_Hotel_and_Hospital_16x16_892: 1957863411
       12_Hotel_and_Hospital_16x16_1148: 875411139
       12_Hotel_and_Hospital_16x16_222: 32766830
+      12_Hotel_and_Hospital_16x16_892: 1957863411
       12_Hotel_and_Hospital_16x16_547: -451550399
       12_Hotel_and_Hospital_16x16_278: 1171000750
       12_Hotel_and_Hospital_16x16_187: -951345951
       12_Hotel_and_Hospital_16x16_933: 1353688906
       12_Hotel_and_Hospital_16x16_1206: 1492145975
+      12_Hotel_and_Hospital_16x16_765: -1159506740
       12_Hotel_and_Hospital_16x16_993: -1086081823
-      12_Hotel_and_Hospital_16x16_82: -71968858
       12_Hotel_and_Hospital_16x16_403: -1559107844
-      12_Hotel_and_Hospital_16x16_923: 1007696942
+      12_Hotel_and_Hospital_16x16_82: -71968858
       12_Hotel_and_Hospital_16x16_535: 588990689
       12_Hotel_and_Hospital_16x16_551: -824303351
       12_Hotel_and_Hospital_16x16_333: -553171767
-      12_Hotel_and_Hospital_16x16_1051: -1829416646
+      12_Hotel_and_Hospital_16x16_923: 1007696942
       12_Hotel_and_Hospital_16x16_818: -1018176029
       12_Hotel_and_Hospital_16x16_1101: -932203525
       12_Hotel_and_Hospital_16x16_843: -193200479
       12_Hotel_and_Hospital_16x16_387: 1515175749
-      12_Hotel_and_Hospital_16x16_765: -1159506740
       12_Hotel_and_Hospital_16x16_316: 850282808
       12_Hotel_and_Hospital_16x16_495: 1969207062
       12_Hotel_and_Hospital_16x16_392: -1659238373
@@ -26602,16 +26602,16 @@ TextureImporter:
       12_Hotel_and_Hospital_16x16_93: -828460144
       12_Hotel_and_Hospital_16x16_489: 145292831
       12_Hotel_and_Hospital_16x16_366: 2033218074
-      12_Hotel_and_Hospital_16x16_520: -1673569260
       12_Hotel_and_Hospital_16x16_88: 341692056
-      12_Hotel_and_Hospital_16x16_1066: 1853709691
       12_Hotel_and_Hospital_16x16_436: 171580458
+      12_Hotel_and_Hospital_16x16_1066: 1853709691
+      12_Hotel_and_Hospital_16x16_925: -2063419893
       12_Hotel_and_Hospital_16x16_390: -1324256782
       12_Hotel_and_Hospital_16x16_96: -1865574808
       12_Hotel_and_Hospital_16x16_1115: -1377171774
       12_Hotel_and_Hospital_16x16_124: -1889736998
       12_Hotel_and_Hospital_16x16_858: -1175403035
-      12_Hotel_and_Hospital_16x16_539: -37235644
+      12_Hotel_and_Hospital_16x16_520: -1673569260
       12_Hotel_and_Hospital_16x16_795: 924250763
       12_Hotel_and_Hospital_16x16_766: 1412759580
       12_Hotel_and_Hospital_16x16_909: -1938347158
@@ -26629,11 +26629,11 @@ TextureImporter:
       12_Hotel_and_Hospital_16x16_623: 255355670
       12_Hotel_and_Hospital_16x16_1116: -121614681
       12_Hotel_and_Hospital_16x16_991: -1044252349
-      12_Hotel_and_Hospital_16x16_925: -2063419893
       12_Hotel_and_Hospital_16x16_103: -1895008494
       12_Hotel_and_Hospital_16x16_764: 498828829
       12_Hotel_and_Hospital_16x16_1098: 304185251
       12_Hotel_and_Hospital_16x16_480: -1339598665
+      12_Hotel_and_Hospital_16x16_539: -37235644
       12_Hotel_and_Hospital_16x16_429: 2113665896
       12_Hotel_and_Hospital_16x16_931: 338196822
       12_Hotel_and_Hospital_16x16_724: -81991974

@@ -105,9 +105,9 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 50
+    textureFormat: 33
     textureCompression: 1
-    compressionQuality: 50
+    compressionQuality: 16
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
@@ -53532,15 +53532,15 @@ TextureImporter:
       4_Generic_Buildings_16x16_736: -1219286577
       4_Generic_Buildings_16x16_2535: 1350641489
       4_Generic_Buildings_16x16_2186: 546076696
-      4_Generic_Buildings_16x16_413: 2107174872
       4_Generic_Buildings_16x16_69: 1813497971
       4_Generic_Buildings_16x16_620: -1442408764
-      4_Generic_Buildings_16x16_1590: 1277900662
+      4_Generic_Buildings_16x16_413: 2107174872
       4_Generic_Buildings_16x16_1580: -2055260783
       4_Generic_Buildings_16x16_284: -792923248
       4_Generic_Buildings_16x16_2150: -1485344659
-      4_Generic_Buildings_16x16_2195: -1647186971
+      4_Generic_Buildings_16x16_1590: 1277900662
       4_Generic_Buildings_16x16_2041: 1351392983
+      4_Generic_Buildings_16x16_2195: -1647186971
       4_Generic_Buildings_16x16_2518: 1215110636
       4_Generic_Buildings_16x16_1665: 686411317
       4_Generic_Buildings_16x16_479: -991349943
@@ -54074,8 +54074,8 @@ TextureImporter:
       4_Generic_Buildings_16x16_567: 952415563
       4_Generic_Buildings_16x16_1227: 1022887715
       4_Generic_Buildings_16x16_389: 638173782
-      4_Generic_Buildings_16x16_764: 692877836
       4_Generic_Buildings_16x16_17: 1279987763
+      4_Generic_Buildings_16x16_764: 692877836
       4_Generic_Buildings_16x16_2471: 457185844
       4_Generic_Buildings_16x16_1167: -1624293719
       4_Generic_Buildings_16x16_1244: 1593075276
@@ -54085,9 +54085,9 @@ TextureImporter:
       4_Generic_Buildings_16x16_1284: -552296860
       4_Generic_Buildings_16x16_1643: -1059153113
       4_Generic_Buildings_16x16_283: -1411964385
-      4_Generic_Buildings_16x16_2192: -567066607
-      4_Generic_Buildings_16x16_184: 139788005
       4_Generic_Buildings_16x16_1964: -1852911171
+      4_Generic_Buildings_16x16_184: 139788005
+      4_Generic_Buildings_16x16_2192: -567066607
       4_Generic_Buildings_16x16_1510: -1060275432
       4_Generic_Buildings_16x16_2534: 179533374
       4_Generic_Buildings_16x16_1474: -1466038397

@@ -105,9 +105,9 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 50
+    textureFormat: 33
     textureCompression: 1
-    compressionQuality: 50
+    compressionQuality: 16
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
@@ -45608,10 +45608,10 @@ TextureImporter:
       13_School_16x16_1319: -429577947
       13_School_16x16_1388: 1319763045
       13_School_16x16_1321: -1149417394
-      13_School_16x16_1579: 1406232952
-      13_School_16x16_369: 492195178
-      13_School_16x16_400: 336315524
       13_School_16x16_592: -945373904
+      13_School_16x16_400: 336315524
+      13_School_16x16_369: 492195178
+      13_School_16x16_1579: 1406232952
       13_School_16x16_741: 994662551
       13_School_16x16_1715: -1203194754
       13_School_16x16_396: -168003075

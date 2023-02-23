@@ -105,9 +105,9 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 50
+    textureFormat: 33
     textureCompression: 1
-    compressionQuality: 50
+    compressionQuality: 16
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
@@ -16060,17 +16060,17 @@ TextureImporter:
       1_Terrains_and_Fences_16x16_486: -768447889
       1_Terrains_and_Fences_16x16_448: 607990346
       1_Terrains_and_Fences_16x16_21: 1449573942
-      1_Terrains_and_Fences_16x16_481: 1741099241
-      1_Terrains_and_Fences_16x16_752: -980204134
-      1_Terrains_and_Fences_16x16_525: 34759898
       1_Terrains_and_Fences_16x16_290: 1223073418
+      1_Terrains_and_Fences_16x16_481: 1741099241
+      1_Terrains_and_Fences_16x16_525: 34759898
+      1_Terrains_and_Fences_16x16_752: -980204134
       1_Terrains_and_Fences_16x16_453: 2140286787
       1_Terrains_and_Fences_16x16_406: -1962708771
       1_Terrains_and_Fences_16x16_611: 1527880571
-      1_Terrains_and_Fences_16x16_748: 1269259271
-      1_Terrains_and_Fences_16x16_581: -1485332331
-      1_Terrains_and_Fences_16x16_164: -2046314937
       1_Terrains_and_Fences_16x16_199: -169140210
+      1_Terrains_and_Fences_16x16_164: -2046314937
+      1_Terrains_and_Fences_16x16_581: -1485332331
+      1_Terrains_and_Fences_16x16_748: 1269259271
       1_Terrains_and_Fences_16x16_181: 2132660600
       1_Terrains_and_Fences_16x16_461: -1275653648
       1_Terrains_and_Fences_16x16_173: -903089820
